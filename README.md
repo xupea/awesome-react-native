@@ -11,3 +11,7 @@
 ### Layout
 
 [Yoga](https://www.yogalayout.dev/) ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/yoga?style=plastic) - A portable layout engine targeting web standards.
+
+### Web sites
+
+[State of React Native 2023](https://results.stateofreactnative.com/)
