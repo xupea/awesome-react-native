@@ -1,5 +1,7 @@
 # awesome-react-native
 
+### Animations
+[Lottie React Native](https://airbnb.io/lottie/#/react-native) ![GitHub Repo stars](https://img.shields.io/github/stars/lottie-react-native/lottie-react-native?style=plastic) - Lottie wrapper for React Native.
 
 ### UI
 
