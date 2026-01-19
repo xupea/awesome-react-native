@@ -19,7 +19,7 @@
 
 [IM Chat](https://github.com/FaridSafi/react-native-gifted-chat) ![GitHub Repo stars](https://img.shields.io/github/stars/FaridSafi/react-native-gifted-chat?style=plastic) - 💬 The most complete chat UI for React Native.
 
-[FlashList]((https://shopify.github.io/flash-list/) ![GitHub Repo stars](https://img.shields.io/github/stars/Shopify/flash-list?style=plastic) - A better list for React Native.
+[FlashList](https://shopify.github.io/flash-list/) ![GitHub Repo stars](https://img.shields.io/github/stars/Shopify/flash-list?style=plastic) - A better list for React Native.
 
 
 ### IDE
