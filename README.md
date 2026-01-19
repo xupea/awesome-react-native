@@ -9,7 +9,11 @@
 
 [Gluestack UI](https://gluestack.io/) ![GitHub Repo stars](https://img.shields.io/github/stars/gluestack/gluestack-ui?style=plastic) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind)).
 
-[FlatList](https://github.com/Shopify/flash-list) ![GitHub Repo stars](https://img.shields.io/github/stars/Shopify/flash-list?style=plastic) - A better list for React Native.
+[React Native Elements](https://reactnativeelements.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/react-native-elements/react-native-elements?style=plastic) - Cross-Platform React Native UI Toolkit.
+
+[Tamagui](https://tamagui.dev/) ![GitHub Repo stars](https://img.shields.io/github/stars/tamagui/tamagui?style=plastic) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
+
+[RNUI](https://wix.github.io/react-native-ui-lib/) ![GitHub Repo stars](https://img.shields.io/github/stars/wix/react-native-ui-lib?style=plastic) - UI Components Library for React Native.
 
 ### IDE
 [React Native IDE](https://ide.swmansion.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/software-mansion/react-native-ide?style=plastic) - A better developer experience for React Native developers.
