@@ -7,7 +7,7 @@
 
 ### UI
 
-[lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) ![GitHub Repo stars](https://img.shields.io/github/stars/lottie-react-native/lottie-react-native?style=plastic) - Lottie wrapper for React Native.
+[Gluestack UI](https://gluestack.io/) ![GitHub Repo stars](https://img.shields.io/github/stars/gluestack/gluestack-ui?style=plastic) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind)).
 
 [FlatList](https://github.com/Shopify/flash-list) ![GitHub Repo stars](https://img.shields.io/github/stars/Shopify/flash-list?style=plastic) - A better list for React Native.
 
