@@ -1,6 +1,8 @@
 # awesome-react-native
 
 ### Animations
+[React Native Animated](https://docs.swmansion.com/react-native-reanimated/) ![GitHub Repo stars](https://img.shields.io/github/stars/software-mansion/react-native-reanimated?style=plastic) - React Native's Animated library reimplemented.
+
 [Lottie React Native](https://airbnb.io/lottie/#/react-native) ![GitHub Repo stars](https://img.shields.io/github/stars/lottie-react-native/lottie-react-native?style=plastic) - Lottie wrapper for React Native.
 
 ### UI
