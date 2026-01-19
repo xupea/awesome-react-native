@@ -15,6 +15,11 @@
 
 [RNUI](https://wix.github.io/react-native-ui-lib/) ![GitHub Repo stars](https://img.shields.io/github/stars/wix/react-native-ui-lib?style=plastic) - UI Components Library for React Native.
 
+### Components
+
+[IM Chat](https://github.com/FaridSafi/react-native-gifted-chat) ![GitHub Repo stars](https://img.shields.io/github/stars/FaridSafi/react-native-gifted-chat?style=plastic) - 💬 The most complete chat UI for React Native.
+
+
 ### IDE
 [React Native IDE](https://ide.swmansion.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/software-mansion/react-native-ide?style=plastic) - A better developer experience for React Native developers.
 
