@@ -23,6 +23,12 @@
 
 [RNUI](https://wix.github.io/react-native-ui-lib/) ![GitHub Repo stars](https://img.shields.io/github/stars/wix/react-native-ui-lib?style=plastic) - UI Components Library for React Native.
 
+[React Native Paper](https://reactnativepaper.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/callstack/react-native-paper?style=plastic) - Material Design for React Native (Android & iOS).
+
+[React Native Paper](https://reactnativepaper.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/callstack/react-native-paper?style=plastic) - Material Design for React Native (Android & iOS).
+
+[Shoutem UI](https://shoutem.github.io/docs/ui-toolkit/introduction/) ![GitHub Repo stars](https://img.shields.io/github/stars/shoutem/ui?style=plastic) - Customizable set of components for React Native applications.
+
 ### Components
 
 [IM Chat](https://github.com/FaridSafi/react-native-gifted-chat) ![GitHub Repo stars](https://img.shields.io/github/stars/FaridSafi/react-native-gifted-chat?style=plastic) - 💬 The most complete chat UI for React Native.
