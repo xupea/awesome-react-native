@@ -9,7 +9,9 @@
 [Unistyles 3.0](https://www.unistyl.es/) ![GitHub Repo stars](https://img.shields.io/github/stars/jpudysz/react-native-unistyles?style=plastic) - Level up your React Native StyleSheet.
 
 ### Animations
-[React Native Animated](https://docs.swmansion.com/react-native-reanimated/) ![GitHub Repo stars](https://img.shields.io/github/stars/software-mansion/react-native-reanimated?style=plastic) - React Native's Animated library reimplemented.
+[React Native Animated](https://docs.swmansion.com/react-native-reanimated/) ![GitHub Repo stars](https://img.shields.io/github/stars/software-mansion/react-native-reanimated?style=plastic) - Declarative API exposing platform native touch and gesture system to React Native..
+
+[React Native Gesture Handler](https://docs.swmansion.com/react-native-gesture-handler/) ![GitHub Repo stars](https://img.shields.io/github/stars/software-mansion/react-native-gesture-handler?style=plastic) - React Native's Animated library reimplemented.
 
 [Lottie React Native](https://airbnb.io/lottie/#/react-native) ![GitHub Repo stars](https://img.shields.io/github/stars/lottie-react-native/lottie-react-native?style=plastic) - Lottie wrapper for React Native.
 
@@ -53,5 +55,12 @@
 
 [Async Storage](https://react-native-async-storage.github.io/3.0-next/) ![GitHub Repo stars](https://img.shields.io/github/stars/react-native-async-storage/async-storage?style=plastic) - An asynchronous, persistent, key-value storage system for React Native.
 
+### State
+
+[Zustand](https://zustand-demo.pmnd.rs/) ![GitHub Repo stars](https://img.shields.io/github/stars/pmndrs/zustand?style=plastic) - 🐻 Bear necessities for state management in React.
+
+### Code Review
+
+[CodeRabbit](https://www.coderabbit.ai/)
 
 
