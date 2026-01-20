@@ -25,8 +25,6 @@
 
 [React Native Paper](https://reactnativepaper.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/callstack/react-native-paper?style=plastic) - Material Design for React Native (Android & iOS).
 
-[React Native Paper](https://reactnativepaper.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/callstack/react-native-paper?style=plastic) - Material Design for React Native (Android & iOS).
-
 [Shoutem UI](https://shoutem.github.io/docs/ui-toolkit/introduction/) ![GitHub Repo stars](https://img.shields.io/github/stars/shoutem/ui?style=plastic) - Customizable set of components for React Native applications.
 
 ### Components
@@ -43,6 +41,17 @@
 
 [Yoga](https://www.yogalayout.dev/) ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/yoga?style=plastic) - A portable layout engine targeting web standards.
 
-### Web sites
+### Database ORM
 
-[State of React Native 2023](https://results.stateofreactnative.com/)
+[Prisma](https://www.prisma.io/) ![GitHub Repo stars](https://img.shields.io/github/stars/prisma/prisma?style=plastic) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
+
+[Drizzle](https://orm.drizzle.team/) ![GitHub Repo stars](https://img.shields.io/github/stars/drizzle-team/drizzle-orm?style=plastic) - ORM.
+
+### Storage
+
+[MMKV](https://mrousavy.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/mrousavy/react-native-mmkv?style=plastic) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!.
+
+[Async Storage](https://react-native-async-storage.github.io/3.0-next/) ![GitHub Repo stars](https://img.shields.io/github/stars/react-native-async-storage/async-storage?style=plastic) - An asynchronous, persistent, key-value storage system for React Native.
+
+
+
