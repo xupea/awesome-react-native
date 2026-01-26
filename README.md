@@ -62,3 +62,8 @@
 ### Code Review
 
 [CodeRabbit](https://www.coderabbit.ai/)
+
+### React Native packages registry
+
+[React Native packages registry](https://reactnative.directory/) ![GitHub Repo stars](https://img.shields.io/github/stars/react-native-community/directory?style=plastic) - A searchable and filterable directory of React Native libraries.
+
